@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tapshyrma9/static/css/main.3e06fd85.css",
+    "main.js": "/tapshyrma9/static/js/main.645ba202.js",
+    "index.html": "/tapshyrma9/index.html",
+    "main.3e06fd85.css.map": "/tapshyrma9/static/css/main.3e06fd85.css.map",
+    "main.645ba202.js.map": "/tapshyrma9/static/js/main.645ba202.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e06fd85.css",
+    "static/js/main.645ba202.js"
+  ]
+}
